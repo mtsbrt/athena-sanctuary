@@ -9,7 +9,7 @@ import { Saint } from './models/saint.model';
 })
 export class SaintService {
 
-    public baseUrl = 'http://localhost:3000/saints';
+    private baseUrl = 'http://localhost:3000/saints';
     constructor(
         private http: HttpClient
     ) { }
