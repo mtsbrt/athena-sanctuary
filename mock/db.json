@@ -1,0 +1,319 @@
+{
+    "saints": [
+        {
+            "id": 1,
+            "name": "Seiya",
+            "cloth": "Pegasus",
+            "clothRank": "Bronze"
+        },
+        {
+            "id": 2,
+            "name": "Shiryu",
+            "cloth": "Dragon",
+            "clothRank": "Bronze"
+        },
+        {
+            "id": 3,
+            "name": "Shun",
+            "cloth": "Andromeda",
+            "clothRank": "Bronze"
+        },
+        {
+            "id": 4,
+            "name": "Hyoga",
+            "cloth": "Cygnus",
+            "clothRank": "Bronze"
+        },
+        {
+            "id": 5,
+            "name": "Ikki",
+            "cloth": "Phoenix",
+            "clothRank": "Bronze"
+        },
+        {
+            "id": 6,
+            "name": "Asterion",
+            "cloth": "Hound",
+            "clothRank": "Silver"
+        },
+        {
+            "id": 7,
+            "name": "Algol",
+            "cloth": "Perseus",
+            "clothRank": "Silver"
+        },
+        {
+            "id": 8,
+            "name": "Moses",
+            "cloth": "Whale",
+            "clothRank": "Silver"
+        },
+        {
+            "id": 9,
+            "name": "Marin",
+            "cloth": "Eagle",
+            "clothRank": "Silver"
+        },
+        {
+            "id": 10,
+            "name": "Ptolemy",
+            "cloth": "Sagitta",
+            "clothRank": "Silver"
+        },
+        {
+            "id": 11,
+            "name": "Mu",
+            "cloth": "Aries",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 12,
+            "name": "Aldebaran",
+            "cloth": "Taurus",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 13,
+            "name": "Death Mask",
+            "cloth": "Cancer",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 14,
+            "name": "Aiolia",
+            "cloth": "Leo",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 15,
+            "name": "Shaka",
+            "cloth": "Virgo",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 16,
+            "name": "Dohko",
+            "cloth": "Libra",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 17,
+            "name": "Milo",
+            "cloth": "Scorpius",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 18,
+            "name": "Shura",
+            "cloth": "Capricornus",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 19,
+            "name": "Camus",
+            "cloth": "Aquarius",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 20,
+            "name": "Aphrodite",
+            "cloth": "Pisces",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 21,
+            "name": "Shaina",
+            "cloth": "Ophiuchus",
+            "clothRank": "Gold"
+        },
+        {
+            "id": 22,
+            "name": "Ares",
+            "cloth": "Grand Pope",
+            "clothRank": "None"
+        }
+    ],
+    "specters": [
+        {
+            "id": 1,
+            "name": "Niobe",
+            "cloth": "Deep Surplice",
+            "clothRank": "Terrestrial Star"
+        },
+        {
+            "id": 2,
+            "name": "Myu",
+            "cloth": "Papiillon Surplice",
+            "clothRank": "Terrestrial Star"
+        },
+        {
+            "id": 3,
+            "name": "Raimi",
+            "cloth": "Worm Surplice",
+            "clothRank": "Terrestrial Star"
+        },
+        {
+            "id": 4,
+            "name": "Lune",
+            "cloth": "Balron Surplice",
+            "clothRank": "Celestial Star"
+        },
+        {
+            "id": 5,
+            "name": "Pharaoh",
+            "cloth": "Sphinx Surplice",
+            "clothRank": "Celestial Star"
+        },
+        {
+            "id": 6,
+            "name": "Valentine",
+            "cloth": "Harpy Surplice",
+            "clothRank": "Celestial Star"
+        },
+        {
+            "id": 7,
+            "name": "Kagaho",
+            "cloth": "Bennu",
+            "clothRank": "Guardian of Earth"
+        },
+        {
+            "id": 8,
+            "name": "Yoma",
+            "cloth": "Mephistopheles",
+            "clothRank": "Guardian of Mercury"
+        },
+        {
+            "id": 9,
+            "name": "Rhadamanthys",
+            "cloth": "Wyvern",
+            "clothRank": "Judge"
+        },
+        {
+            "id": 10,
+            "name": "Aiacus",
+            "cloth": "Garuda",
+            "clothRank": "Judge"
+        },
+        {
+            "id": 11,
+            "name": "Minos",
+            "cloth": "Griffon",
+            "clothRank": "Judge"
+        }
+    ],
+    "marinas": [
+        {
+            "id": 1,
+            "name": "Baian",
+            "cloth": "Sea Horse",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 2,
+            "name": "Io",
+            "cloth": "Scylla",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 3,
+            "name": "Krishna",
+            "cloth": "Chrysaor",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 4,
+            "name": "Caça",
+            "cloth": "Lyumnades",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 5,
+            "name": "Isaak",
+            "cloth": "Kraken",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 6,
+            "name": "Sorrento",
+            "cloth":"Siren",
+            "clothRank": "Marina General"
+        },
+        {
+            "id": 7,
+            "name": "Kanon",
+            "cloth": "Sea Dragon",
+            "clothRank": "Marina General"
+        }
+    ],
+    "gods": [
+        {
+            "id": 1,
+            "name": "Athena",
+            "entity": "Saints"
+        },
+        {
+            "id": 2,
+            "name": "Hades",
+            "entity": "Specters"
+        },
+        {
+            "id": 3,
+            "name": "Poseidon",
+            "entity": "Marinas"
+        }
+    ],
+    "signs": [
+        {
+            "id": 1,
+            "name": "Aries"
+        },
+        {
+            "id": 2,
+            "name": "Taurus"
+        },
+        {
+            "id": 3,
+            "name": "Gemini"
+        },
+        {
+            "id": 4,
+            "name": "Cancer"
+        },
+        {
+            "id": 5,
+            "name": "Leo"
+        },
+        {
+            "id": 6,
+            "name": "Virgo"
+        },
+        {
+            "id": 7,
+            "name": "Libra"
+        },
+        {
+            "id": 8,
+            "name": "Scorpius"
+        },
+        {
+            "id": 9,
+            "name": "Sagittarius"
+        },
+        {
+            "id": 10,
+            "name": "Capricornus"
+        },
+        {
+            "id": 11,
+            "name": "Aquarius"
+        },
+        {
+            "id": 12,
+            "name": "Pisces"
+        },
+        {
+            "id": 13,
+            "name": "Ophiuchus"
+        }
+    ]
+}
