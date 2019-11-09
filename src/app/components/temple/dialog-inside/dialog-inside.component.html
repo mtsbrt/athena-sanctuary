@@ -1,0 +1,20 @@
+<h1 mat-dialog-title>A Casa de {{data?.sign}}</h1>
+<div mat-dialog-content>
+    <p>
+        <span *ngIf="data.saint; else saintless">
+            A {{data?.order}}ª casa do Santuário, representando o signo de {{data?.sign}} é protegida pelo cavaleiro de Ouro
+            {{data.saint?.name}}.
+        </span>
+        <ng-template #saintless>
+            <span>
+                A {{data?.order}}ª casa do Santuário, representando o signo de {{data?.sign}} e se encontra vazia.
+            </span>
+        </ng-template>
+    </p>
+    <p>
+        <span>{{data?.outcome}}</span>
+    </p>
+</div>
+<div mat-dialog-actions>
+    <button mat-button color="primary" mat-dialog-close>Ok</button>
+</div>

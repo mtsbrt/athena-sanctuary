@@ -91,12 +91,6 @@
             "clothRank": "Gold"
         },
         {
-            "id": 16,
-            "name": "Dohko",
-            "cloth": "Libra",
-            "clothRank": "Gold"
-        },
-        {
             "id": 17,
             "name": "Milo",
             "cloth": "Scorpius",
@@ -265,51 +259,63 @@
     "signs": [
         {
             "id": 1,
-            "name": "Aries"
+            "name": "Aries",
+            "outcome": "Mu restaura as armaduras dos cavaleiros de bronze e os alerta dos perigos à frente."
         },
         {
             "id": 2,
-            "name": "Taurus"
+            "name": "Taurus",
+            "outcome": "Aldebaran enfrenta Seiya, que atinge o 7º Sentido e corta o chifre da armadura de touro."
         },
         {
             "id": 3,
-            "name": "Gemini"
+            "name": "Gemini",
+            "outcome": "Os cavaleiros de bronze enfrentam uma miragem do cavaleiro de Gêmeos e se separam."
         },
         {
             "id": 4,
-            "name": "Cancer"
+            "name": "Cancer",
+            "outcome": "Shiryu enfrenta Máscara da Morte na entrada do mundo dos mortos e vence a batalha."
         },
         {
             "id": 5,
-            "name": "Leo"
+            "name": "Leo",
+            "outcome": "Seiya enfrenta Aiolia, controlado pelo mestre Ares. Aiolia volta a si depois de matar Cássio."
         },
         {
             "id": 6,
-            "name": "Virgo"
+            "name": "Virgo",
+            "outcome": "Os cavaleiros de bronze enfrentam Shaka na casa de virgem. Ikki surge e se sacrifica para derrotar Shaka."
         },
         {
             "id": 7,
-            "name": "Libra"
+            "name": "Libra",
+            "outcome": "Os cavaleiros de bronze encontram Hyoga em um caixão de gelo e Shiryu usa a espada de Libra para salvá-lo. Depois, Shun **CENSURADO**"
         },
         {
             "id": 8,
-            "name": "Scorpius"
+            "name": "Scorpius",
+            "outcome": "Hyoga enfrenta Milo na casa de Escorpião e sai vitorioso."
         },
         {
             "id": 9,
-            "name": "Sagittarius"
+            "name": "Sagittarius",
+            "outcome": "Aiolos deixa uma mensagem: “Aos jovens que aqui chegarem, confio Atena aos seus cuidados”"
         },
         {
             "id": 10,
-            "name": "Capricornus"
+            "name": "Capricornus",
+            "outcome": "Shiryu enfrenta Shura na casa de Capricórnio, se sacrificando para derrotar o cavaleiro de ouro."
         },
         {
             "id": 11,
-            "name": "Aquarius"
+            "name": "Aquarius",
+            "outcome": "Hyoga enfrenta seu mestre Camus na casa de Aquário, atingindo o zero absoluto para vencer seu mestre."
         },
         {
             "id": 12,
-            "name": "Pisces"
+            "name": "Pisces",
+            "outcome": "Shun enfrenta Afrodite na casa de Peixes enquanto Seiya percorre o caminho de rosas venenosas rumo ao salão do Grande Mestre."
         }
     ]
 }

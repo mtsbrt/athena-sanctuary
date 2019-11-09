@@ -18,6 +18,9 @@ export class SaintService {
         return this.http.get<Saint[]>(this.baseUrl);
     }
 
+    public getSaintByCloth(cloth: string): Observable<Saint> {
+        return this.http.get<Saint>(`${this.baseUrl}?cloth=${cloth}`)
+    }
     public getGoldSaints(): Observable<Saint[]> {
         return this.http.get<Saint[]>(this.baseUrl)
         .pipe(map(response => response.filter(x => x.clothRank === 'Gold')));

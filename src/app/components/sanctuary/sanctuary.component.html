@@ -1,3 +1,3 @@
-<div style="display: inline-block;" *ngFor="let sign of signs">
-    <app-temple></app-temple>
+<div style="display: inline-block;" *ngFor="let sign of signs; index as i">
+    <app-temple [saint]="getTempleSaint(sign.name)" [sign]="sign" [order]="i + 1"></app-temple>
 </div>
